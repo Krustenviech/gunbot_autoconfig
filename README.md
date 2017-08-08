@@ -19,3 +19,5 @@ todo:
 
 - let user chose which strategies to take for top coins
 - let user write his own strategies for "old coin selling"
+- adding coinmarketcap.info
+- adding Poloniex
