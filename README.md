@@ -27,10 +27,9 @@ todo:
 
 -------------------------------------------------
 Tip 
+
 BTC:	12Qy1qxd5RqwCc47cPtRL4off1KPFKzKom
 
-
 ETH:	0xd01295bB1845A8d7e1643702E42ceC2e9e96dF9F
-
 
 DOGE:	DSPWNsYfxju3y3vKC1R1ByYFFzT3Sif1bo
