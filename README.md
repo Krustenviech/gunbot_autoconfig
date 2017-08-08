@@ -1,4 +1,5 @@
 #GUNBOT AUTOCONFIG
+v.1.0
 
 by Krustenviech
 Mail: krustenviech@gmail.com
