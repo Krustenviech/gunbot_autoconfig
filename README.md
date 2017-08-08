@@ -7,7 +7,7 @@ Mail: krustenviech@gmail.com
 Tele: https://t.me/Krustenviech
 -------------------------------------------------
 
-Automaticly create a config with the top volume coins on Bittrex.
+Automaticly create a Gunbot config with the top volume coins on Bittrex.
 
 -------------------------------------------------
 can do now:
