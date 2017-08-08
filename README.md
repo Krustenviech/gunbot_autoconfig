@@ -1,4 +1,7 @@
-Gunbot Autoconfig
+>>>>> Gunbot Autoconfig <<<<<
+  by Krustenviech
+  Mail: krustenviech@gmail.com
+  Tele: https://t.me/Krustenviech
 
 Automaticly create a config with the top volume coins.
 
@@ -10,6 +13,7 @@ todo:
 - read old config
 - add just new coins into config file
 - sell override config for old coins
+- add schedule
 
 - let user chose which strategies to take for top coins
 - let user write his own strategies for "old coin selling"
