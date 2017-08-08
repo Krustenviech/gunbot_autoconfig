@@ -1,7 +1,7 @@
 #GUNBOT AUTOCONFIG
-  by Krustenviech
-  Mail: krustenviech@gmail.com
-  Tele: https://t.me/Krustenviech
+by Krustenviech
+Mail: krustenviech@gmail.com
+Tele: https://t.me/Krustenviech
 
 Automaticly create a config with the top volume coins.
 
