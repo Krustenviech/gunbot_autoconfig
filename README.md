@@ -19,7 +19,7 @@ todo:
 - read old config
 - add just new coins into config file
 - sell override config for old coins
-- add schedule
+- add schedule ("add new coins every day at 07:00")
 
 - let user chose which strategies to take for top coins
 - let user write his own strategies for "old coin selling"
